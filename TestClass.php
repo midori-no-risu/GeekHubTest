@@ -7,5 +7,9 @@
  */
 
 class TestClass {
+    function makeHappy()
+    {
+        print('Happy');
+    }
 
 } 
