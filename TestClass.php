@@ -6,6 +6,6 @@ class TestClass implements TestInterface
 {
     public function makeHappy()
     {
-        echo 'Weeeeeee!!!';
+        print('Happy');
     }
-} 
+}
